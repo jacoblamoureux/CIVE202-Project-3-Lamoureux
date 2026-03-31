@@ -11,6 +11,7 @@ This repository contains Python code to load, visualize, and analyze two transpo
 ## Repository Contents
 - Jacob_Lamoureux_Project_3_Final_Code.ipynb -- main Jupyter notebook containing all code
 - NHTS.csv -- household vehicle and travel survey data
+- NGSIM.csv -- time-series vehicle trajectory data for leader-follower vehicle pairs
 - Annotated Code Document.docx
 
 ---
