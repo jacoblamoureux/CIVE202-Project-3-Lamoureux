@@ -12,11 +12,11 @@ This repository contains Python code to load, visualize, and analyze two transpo
 - Jacob Lamoureux Project 3 Final Code.ipynb - main Jupyter notebook containing all code
 - NHTS.csv - household vehicle and travel survey data
 - NGSIM.csv - time-series vehicle trajectory data for leader-follower vehicle pairs
-- Annotated Code Document.docx
-- Jacob Lamoureux Scope of Work.docx
-- Jacob Lamoureux Project 3 Report.docx
-- Jacob Lamoureux Project 3 Gantt.xlsx
-- Project 3 Time Sheet Lamoureux.xlsx
+- Annotated Code Document.docx - Document containing written explanations for code
+- Jacob Lamoureux Scope of Work.docx - Document that outlines steps taken in fulfilling request
+- Jacob Lamoureux Project 3 Report.docx - Document including project information with methods and data analysis reporting
+- Jacob Lamoureux Project 3 Gantt.xlsx - Timeline for project tasks
+- Project 3 Time Sheet Lamoureux.xlsx - Sheet for keeping track of time spent on each task and billing.
 
 ---
 
