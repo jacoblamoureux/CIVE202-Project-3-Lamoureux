@@ -15,6 +15,8 @@ This repository contains Python code to load, visualize, and analyze two transpo
 - Annotated Code Document.docx
 - Jacob Lamoureux Scope of Work.docx
 - Jacob Lamoureux Project 3 Report.docx
+- Jacob Lamoureux Project 3 Gantt.xlsx
+- Project 3 Time Sheet Lamoureux.xlsx
 
 ---
 
