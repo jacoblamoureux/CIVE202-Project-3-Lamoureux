@@ -1,17 +1,17 @@
-# Project 3 -- NHTS & NGSIM Data Analysis and IDM Simulation
+# Project 3 - NHTS & NGSIM Data Analysis and IDM Simulation
 Jacob Lamoureux | CIVE 202
 
 ---
 
 ## Overview
-This repository contains Python code to load, visualize, and analyze two transportation datasets -- the National Household Travel Survey (NHTS) and the Next Generation Simulation (NGSIM) dataset. It also includes a simulation of vehicle following behavior using the Intelligent Driver Model (IDM).
+This repository contains Python code to load, visualize, and analyze two transportation datasets - the National Household Travel Survey (NHTS) and the Next Generation Simulation (NGSIM) dataset. It also includes a simulation of vehicle following behavior using the Intelligent Driver Model (IDM).
 
 ---
 
 ## Repository Contents
-- Jacob_Lamoureux_Project_3_Final_Code.ipynb -- main Jupyter notebook containing all code
-- NHTS.csv -- household vehicle and travel survey data
-- NGSIM.csv -- time-series vehicle trajectory data for leader-follower vehicle pairs
+- Jacob_Lamoureux_Project_3_Final_Code.ipynb - main Jupyter notebook containing all code
+- NHTS.csv - household vehicle and travel survey data
+- NGSIM.csv - time-series vehicle trajectory data for leader-follower vehicle pairs
 - Annotated Code Document.docx
 
 ---
