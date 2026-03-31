@@ -13,6 +13,7 @@ This repository contains Python code to load, visualize, and analyze two transpo
 - NHTS.csv - household vehicle and travel survey data
 - NGSIM.csv - time-series vehicle trajectory data for leader-follower vehicle pairs
 - Annotated Code Document.docx
+- Jacob Lamoureux Scope of Work.docx
 
 ---
 
