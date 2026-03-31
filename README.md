@@ -11,10 +11,7 @@ This repository contains Python code to load, visualize, and analyze two transpo
 ## Repository Contents
 - Jacob_Lamoureux_Project_3_Final_Code.ipynb -- main Jupyter notebook containing all code
 - NHTS.csv -- household vehicle and travel survey data
-- NGSIM.csv -- time-series vehicle trajectory data for leader-follower vehicle pairs
-- ACD_Lamoureux_Project3.docx -- annotated code document
-- Project_3_Methods_Lamoureux.docx -- written methods document
-- Jacob_Lamoureux_Project_3_Gantt.xlsx -- Gantt chart and timesheet
+- Annotated Code Document.docx
 
 ---
 
@@ -29,7 +26,7 @@ pip install pandas numpy matplotlib seaborn jupyter
 1. Download this repository and make sure all files are in the same folder
 2. Open a terminal in that folder and run: jupyter notebook
 3. Open Jacob_Lamoureux_Project_3_Final_Code.ipynb
-4. Run the cells from top to bottom -- each cell depends on the ones before it
+4. Run the cells from top to bottom 
 5. In Cell 5 you can change trajectorynumber to any value between 1 and 16 to look at a different vehicle pair
 6. The IDM simulation in Cells 7 through 10 will use whatever trajectory number you picked
 
